@@ -16,7 +16,7 @@ body {
 
     line-height: 1.5;
 
-    text-align: left;
+    
 
     
 
@@ -94,7 +94,7 @@ body {
 
     min-height: 150%;
 
-    
+    display: flex;
 
 }
 
@@ -108,7 +108,7 @@ body {
 
     content: "";
 
-    position: absolute;
+    position: inherit;
 
     display: flex;
 
@@ -228,6 +228,13 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
     
+  }
+
+  .heading_container h1 {
+    position: relative;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 10px;
   }
   
   .heading_container h2 {
@@ -448,11 +455,11 @@ a:focus {
 
 
 
-.gregslame .img .img_container .img-box img {
+.gregslame .img-box {
 
 
     transform: rotate(90deg);
-    position: flex;
+    position: relative;
 
     
 
@@ -466,7 +473,7 @@ a:focus {
 
     margin: 0;
 
-    position: flex;
+    position: relative;
 
     padding: 60px;
 
