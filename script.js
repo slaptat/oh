@@ -1,15 +1,15 @@
-// To access the show button element 
+
 
 let showbtn = document.getElementById("showbtn"); 
 
-// To access the Close button element 
+// close button 
 let closebtn = document.getElementById("closebtn"); 
 
-// To acces the popup element 
+
 let popup = document.querySelector(".popup"); 
 let subp = document.getElementById("sub-p"); 
 
-// To show the popup on click 
+//show the popup 
 showbtn.addEventListener("click", () => { 
 	popup.style.display = "block"; 
 	showbtn.style.display = "none"; 
@@ -17,7 +17,7 @@ showbtn.addEventListener("click", () => {
 	subp.style.display = "none"; 
 }); 
 
-// To close the popup on click 
+//close 
 closebtn.addEventListener("click", () => { 
 	popup.style.display = "none"; 
 	showbtn.style.display = "block"; 
@@ -25,6 +25,7 @@ closebtn.addEventListener("click", () => {
 	subp.style.display = "block"; 
 });
 
+//counter 
 var count = 0;
 var displayCount = document.getElementById("count");
 
