@@ -1,18 +1,23 @@
-hi this is just for sharing between computers and junk kthxbye
-
-colors
- uhhh
+##I have no idea what is going on below this. two day no sleep get the project done things.
 
 
- panic
- panik
- k
- button./
-
- clicks
-
- ihjhjgb
-
- click counter I mean
+> hi this is just for sharing between computers and junk kthxbye
+>
+> colors
+> uhhh
+>
+>
+>
+>
+> panic
+> panik
+> k
+> button./
+>
+> clicks
+>
+> ihjhjgb
+>
+> click counter I mean
 
  
